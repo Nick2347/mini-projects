@@ -13,6 +13,6 @@ if (percenta>100 and percenta<200):
 elif (percenta<100 and percenta>50):
     print(f"Your love percentage is {percenta}%,You guys are lovelyy together👫♥♥")
 elif(percenta<50):
-    print(f"Your love percentage is {percenta}%,you guys should date")
+    print(f"Your love percentage is {percenta}%,you guys should try dating.")
 else:
     print(f"Your love percentage is {percenta}%,You have eternal love till the end of the earth❤️❤️👴👵🌎")
